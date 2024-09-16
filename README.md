@@ -13,3 +13,7 @@ The gateway is shipped with built-in middlewares:
 * Body size limiter
 * Header size limiter
 * Rate limiter
+
+## Documentation
+
+Full document is available [here](https://gateway-doc.onrender.com/)
