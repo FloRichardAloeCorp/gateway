@@ -16,4 +16,4 @@ The gateway is shipped with built-in middlewares:
 
 ## Documentation
 
-Full document is available [here](https://gateway-doc.onrender.com/)
+Full documentation is available [here](https://gateway-doc.onrender.com/)
